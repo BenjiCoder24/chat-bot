@@ -25,7 +25,7 @@ import traceback
 app = Flask(__name__)
 
 # Set the OpenAI API key from the environment variable for better security practices
-os.environ["OPENAI_API_KEY"] = "sk-JHk2lsSwke4Tn9MWV3nuT3BlbkFJuuLlXRl83TMf"
+os.environ["OPENAI_API_KEY"] = "sk-JHk2lsSwke4Tn9MWV3nuT3Blb"
 print("LOG:starting server")
 
 

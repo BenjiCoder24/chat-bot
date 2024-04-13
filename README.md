@@ -39,7 +39,7 @@ def chat():
     print("Received a POST request to /chat")
     user_message = request.json.get('message', '')
 
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "sk-JHk2lsSwke4Tn9MWV3nuT3BlbkFJuu"
     client = OpenAI()
 
     if not user_message:

@@ -4,6 +4,13 @@
 ## Summary of Previous Tutorial
 In our last tutorial, we introduced JavaScript and HTML by creating interactive web pages. We embedded JavaScript in HTML using the `<script>` tag to change text on a web page and handle user inputs.
 
+## Link to  Jupyter notbook
+
+copy and paste
+
+https://colab.research.google.com/github/BenjiCoder24/chat-bot/blob/main/Chat_Bot_Tutorial_With_Prompt.ipynb
+
+
 ## Building a Chat Bot
 Today, we will build a chat bot with a frontend and backend that communicate via a REST API call.
 
